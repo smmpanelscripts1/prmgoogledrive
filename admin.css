@@ -1,0 +1,19 @@
+.prm-gdrive-log {
+  padding: 6px 0;
+  border-bottom: 1px solid #2c3b4c;
+  font-size: 12px;
+  color: #d1d5db;
+}
+
+.prm-gdrive-log--error {
+  color: #fca5a5;
+}
+
+.prm-gdrive-log--info {
+  color: #e5e7eb;
+}
+
+.prm-gdrive-log code {
+  margin-right: 8px;
+  color: #9ca3af;
+}

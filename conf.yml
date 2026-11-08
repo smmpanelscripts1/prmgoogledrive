@@ -1,0 +1,37 @@
+info:
+  name: "PRM Google Drive Backup"
+  identifier: "prmgoogledrive"
+  description: "Admin Google hesabı ile sunucuları otomatik olarak Google Drive'a yedekler (Wings arşivi veya zip)."
+  flags: ""
+  version: "1.0.0"
+  target: "beta-2026-08"
+  author: "Peto"
+  icon: ""
+  website: ""
+
+admin:
+  view: "view.blade.php"
+  controller: ""
+  css: "admin.css"
+  wrapper: "admin/wrapper.blade.php"
+
+dashboard:
+  css: ""
+  wrapper: ""
+  components: ""
+
+data:
+  directory: ""
+  public: ""
+  console: ""
+
+requests:
+  views: ""
+  app: ""
+  routers:
+    application: ""
+    client: ""
+    web: "routes/web.php"
+
+database:
+  migrations: ""

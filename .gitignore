@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.blueprint
+__pycache__/
+*.pyc
+.settings.json
+.env
+.env.*
